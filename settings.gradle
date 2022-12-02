@@ -1,0 +1,5 @@
+
+
+rootProject.name = 'groovy-gradle-all-in-one-template'
+include('lib')
+include('plugin')
